@@ -69,4 +69,4 @@ def get_user_input():
 @bot.event
 async def on_ready():
     print_banner()
-print(GREEN + f"🤖 Bot [{bot.user}] is connected successfully!\n" + RESET)                                                                                                              
+print(GREEN + f"🤖 Bot [{bot.user}] is connected successfully!\n" + RESET)
